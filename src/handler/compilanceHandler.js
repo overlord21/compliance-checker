@@ -22,6 +22,5 @@ export async function checkCompliance(webPageUrl){
         },
     ]
     model.complianceIssue = await aiCaller(prompt)
-    console.log(model.complianceIssue)
     return model.complianceIssue
   }
