@@ -13,7 +13,7 @@ mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopol
   .then(() => console.log('MongoDB connected'))
   .catch((err) => console.error('MongoDB connection error:', err));
   
-app.post('/check_compliance', async (req, res) => {
+app.post('/check-compliance', async (req, res) => {
     const { webpage_url } = req.body;
     if (!webpage_url) {
       return res.status(400).json({ error: 'webpage_url is required' });
