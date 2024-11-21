@@ -1,0 +1,13 @@
+Upon analyzing the webpage content in relation to the compliance policy, the following non-compliant issues are evident:
+
+1. The webpage refers to Mercury as a company that provides 'banking services' - this goes against the policy that prohibits non-licensed financial institutions from using terms such as 'banking', 'banks', or 'bank accounts'. These references are seen multiple times throughout the text, including "business banking," "banking and financial operations," "your bank account," and "FDIC-insured bank accounts."
+
+2. The term 'bank account' is used while instructing customers to apply for an account, "Your bank account should do more than hold your money. Now, it can." and also in the pricing details under "Business banking - FDIC-insured bank accounts". This term is explicitly mentioned as prohibited in the compliance policy.
+
+3. The products under the pricing section include the term 'closing the books' that may be misunderstood as banking term. This could be replaced with a compliant term such as financial account or service.
+
+4. Mercury is promising a yield - "Earn up to 4.69% yield on your idle cash." This could potentially be a violation if the company doesn't specify that the yield rates can change. Additionally, it's uniquely important to use the term “yield,” not “interest”.
+
+5. The terminology used for FDIC insurance eligibility doesn't seem to be paired with the two required disclosures as per the compliance policy.
+
+In order to be in compliance with the regulations, Mercury should revise its content using the recommended terms as per the compliance policy and eliminate direct or indirect references to 'banking', 'banks' or 'bank accounts'. They should also add the necessary FDIC insurance eligibility disclosures.

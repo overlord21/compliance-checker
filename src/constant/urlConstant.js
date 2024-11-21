@@ -1,0 +1,1 @@
+export const STRIPE_POLICY_URL = "https://stripe.com/docs/treasury/marketing-treasury"
