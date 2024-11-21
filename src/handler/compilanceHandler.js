@@ -1,9 +1,9 @@
 import { SYSTEM, USER } from "../constant/aiConstants";
 import { CHECK_COMPLIANCE_PROMPT, COMPLIANCE_SYSTEM_PROMPT } from "../constant/aiPromptConstant";
 import { STRIPE_POLICY_URL } from "../constant/urlConstant";
-import { aiCaller } from "./aiHelper";
+import { aiCaller } from "./aiHandler";
 import { getPolicy } from "./policyHandler";
-import { getUrlPageContent } from "./scrapperHelper";
+import { getUrlPageContent } from "./scrapperHandler";
 
 export async function checkCompliance(webPageUrl){
     let model = {}

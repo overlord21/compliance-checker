@@ -1,8 +1,8 @@
 import { GET_POLICY_PROMPT } from "../constant/aiPromptConstant"
 import { SYSTEM, USER } from "../constant/aiConstants"
 import { addObjectToPolicyData, getPolicyBasedOnUrl } from "../helper/policyDataHelper"
-import { aiCaller } from "./aiHelper"
-import { getUrlPageContent } from "./scrapperHelper"
+import { aiCaller } from "./aiHandler"
+import { getUrlPageContent } from "./scrapperHandler"
 
 export async function getPolicy(url){
     let model = {}
